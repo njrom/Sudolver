@@ -1,5 +1,4 @@
-#  Sudolver 
-### Soduku Solver
+#  Sudolver: Soduku Solver
 
 Dandy Hacks Fall 2018 project inspired by The Magic Sudoku App by Brad Dwyer
 
